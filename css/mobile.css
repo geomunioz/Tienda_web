@@ -1,0 +1,28 @@
+@media (max-width: 600px){
+    .products{
+        display: block;
+        height: auto;
+    }
+
+    .product{
+        margin-top: auto;
+    }
+
+    .main_section{
+        padding: 4%;
+    }
+
+    .beneficios, .menciones{
+        display: block;
+    }
+
+    .beneficios article{
+        max-width: 60%;
+        margin: 0 auto;
+        padding: 5PX;
+    } 
+
+    .menciones article{
+        width: 70%;
+    }
+}
